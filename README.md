@@ -1,0 +1,2 @@
+# Treasure-Map
+you will be provided with several map files containing a starting position, a direction to face, and then a set of instructions on how to reach the treasure from that starting position. There will be two kinds of instructions: pacing and turning. Pacing will involve walking in a straight line and taking a certain number of steps forward, while turning will require us to turn directly on the spot.
